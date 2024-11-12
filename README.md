@@ -1,12 +1,8 @@
 # 11 - Dasar State Management
 
-<div align="center">
-
 | Nama | NIM |
 |:----:|:---:|
 | Dani Daneswara | 362358302048 |
-
-</div>
 
 ## Praktikum 1
 
