@@ -1,12 +1,12 @@
 # 11 - Dasar State Management
 
-<center>
+<div align="center">
 
 | Nama | NIM |
 |:----:|:---:|
 | Dani Daneswara | 362358302048 |
 
-</center>
+</div>
 
 ## Praktikum 1
 
@@ -60,7 +60,7 @@ Hasil dari langkah 9 disini kita menambahkan sebuah widget yang fungsinya untuk 
 
 ### Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
 <p align="center">
-  <img src="images/diagram.png" alt="diagram" width="400"/>
+  <img src="images/diagram.png" alt="diagram" width="450"/>
 </p>
 Gambar diagram tersebut menunjukkan perubahan struktur widget di aplikasi Flutter ketika berpindah dari satu layar ke layar lain menggunakan Navigator.push. Diagram ini menggambarkan bagaimana Flutter mengatur dan mengelola hirarki widget pada dua layar yang berbeda, serta bagaimana Navigator.push memungkinkan perpindahan dari satu layar ke layar lain. Pada PlanScreen, struktur widget dioptimalkan untuk tampilan daftar tugas dengan informasi tambahan, sehingga membantu pengguna memahami progres dari tugas yang sedang dibuat.
 
